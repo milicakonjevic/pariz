@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(245, 245, 187);
+    font-family: Arial;
+    font-size: 18px;
+}
+h2{
+    color: rgb(95, 148, 247);
+    font-size: 40px;
+    text-align: center;
+}
